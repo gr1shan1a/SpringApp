@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a56956f-0d2e-4b4b-a0ce-a82571f60fbd" name="Changes" comment="21.09.23 SimpleSpringApp" />
+    <list default="true" id="3a56956f-0d2e-4b4b-a0ce-a82571f60fbd" name="Changes" comment="21.09.23 SimpleSpringApp">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kuranov/springcourses/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kuranov/springcourses/TestSpring.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2ViABgPdpeCbzcC0sYRtA6fAza7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695308397347</updated>
-      <workItem from="1695308398878" duration="1482000" />
+      <workItem from="1695308398878" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="21.09.23 SimpleSpringApp">
       <option name="closed" value="true" />
@@ -60,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695309875389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="21.09.23 SimpleSpringApp">
+      <option name="closed" value="true" />
+      <created>1695309963305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695309963305</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
